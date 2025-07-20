@@ -6,7 +6,7 @@ import axios from "axios";
 import toast from "react-hot-toast";
 import { MdDelete } from "react-icons/md";
 
-const server = "http://localhost:7000";
+const server = "https://shivam-admin-service.vercel.app";
 
 const Admin = () => {
   const navigate = useNavigate();
