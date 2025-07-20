@@ -8,7 +8,7 @@ import React, {
   useState,
 } from "react";
 
-const server = "http://localhost:8000";
+const server = "https://shivam-song-sevice.vercel.app";
 
 export interface Song {
   id: string;
